@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>csc110</label>
+	</settings>
+	<users>
+		<user>
+			<path>csc110.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>csc110.jcp</path>
+		</project>
+		<project>
+			<path>abc\abc.jcp</path>
+		</project>
+	</projects>
+</workspace>
